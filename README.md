@@ -15,7 +15,6 @@ If you use Sublime Text 3, you can see <a href="https://github.com/stormtea123/C
 
 ## Install
 
-* Use <a href="https://packagecontrol.io/installation">Package Control</a>: search `ConvertChineseCharactersFor2` and install
 * Clone the source code into your sublime text's package folder
 
 
